@@ -66,7 +66,7 @@ function App() {
   }, [firstAmount, baseCurrency, quoteCurrency,codeFromCurrency , codeToCurrency]);
 
   const boxStyles = {
-    background: "#e3e6ed",
+    background: "#eaebec",
     marginTop: "10%",
     textAlign: "center",
     color: "#222",
